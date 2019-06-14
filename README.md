@@ -47,4 +47,12 @@ In questi casi l’autista preme  il  tasto  RichiestaDiretta  per  comunicare  
 Dopo aver premuto il tasto di *RichiestaDiretta*, l’autista si comporta come se si trattasse di una richiesta proveniente dal sistema. 
 
 Cordiali saluti, 
+
 Ing. Vito Accorsio 
+
+****
+
+**Domanda n.1**. Dare un diagramma delle classi, considerando come classi o attributi tutti e soli i termini che nell’enunciato compaiono in grassetto. 
+
+**Domanda n.2**. Disegnare il relativo diagramma dei casi d'uso.
+
